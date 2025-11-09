@@ -1,0 +1,7 @@
+C:\Users\saidk\source\repos\kt.10\kt.11\obj\Debug\kt.11.csproj.AssemblyReference.cache
+C:\Users\saidk\source\repos\kt.10\kt.11\obj\Debug\kt.11.csproj.CoreCompileInputs.cache
+C:\Users\saidk\source\repos\kt.10\kt.11\bin\Debug\kt.11.exe.config
+C:\Users\saidk\source\repos\kt.10\kt.11\bin\Debug\kt.11.exe
+C:\Users\saidk\source\repos\kt.10\kt.11\bin\Debug\kt.11.pdb
+C:\Users\saidk\source\repos\kt.10\kt.11\obj\Debug\kt.11.exe
+C:\Users\saidk\source\repos\kt.10\kt.11\obj\Debug\kt.11.pdb
